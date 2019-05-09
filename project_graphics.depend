@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556885050 source:e:\fci\graphics\project_graphics\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	<math.h>
+	<stack>
+	<queue>
+	<string>
+
+1557067098 source:c:\users\hadeer\desktop\year 3 semester 2\graphics\project_graphics\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cmath>
+	<math.h>
+	<stack>
+	<queue>
+	<string>
+	<vector>
+
